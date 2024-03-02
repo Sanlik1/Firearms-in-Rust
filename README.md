@@ -1,6 +1,6 @@
 <html>
 	<title>Огнестрельное оружие в Rust</title>
-	<body style="background-color:DimGray; font-family: sans-serif">
+	<body style="background-color:Gray; font-family: sans-serif">
 		<header>
             <h1>Огнестрельное оружие в Rust</h1>
                 <h4>"Rust" — это многопользовательская выживальческая видеоигра, разработанная и опубликованная компанией Facepunch Studios. Игра была выпущена в раннем доступе в декабре 2013 года и с тех пор получила широкое признание и популярность.</h4>
